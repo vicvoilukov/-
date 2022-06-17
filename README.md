@@ -16,3 +16,8 @@ ____
 
 :white_check_mark: [Homework №4] ()
 
+Purposes of homework:
+(learn how to design the architecture of database tables, work with restrictions and field attributes, fill tables with data;
+consolidate the skills of working with primary and foreign keys;
+demonstrate knowledge of modifying database tables.)
+
