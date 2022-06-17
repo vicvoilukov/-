@@ -4,6 +4,14 @@ This repository contains all the homework that had to be solved during the Data-
 Below is more convenient content:
 ____
 ## SQL (PostgreSQL)
+*For practice Using DVD rental database, which including:*
+- *15 tables*
+- *1 trigger*
+- *7 views*
+- *8 functions*
+- *1 domain*
+- *13 sequences*
+
 :white_check_mark: [Homework №1](https://github.com/vicvoilukov/Data-Science-Netology/blob/fc711a6ade86451f03afc064d015a66fb970da58/SQL/%D0%94%D0%BE%D0%BC%D0%B0%D1%88%D0%BD%D0%B5%D0%B5%20%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5%201.sql)
 
 write and execute the first SQL query
