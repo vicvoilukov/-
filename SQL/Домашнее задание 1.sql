@@ -1,3 +1,4 @@
+-- Use a SQL query to display the names of the primary key constraints
 INSERT INTO information_schema.table_constraints (constraint_name) VALUES
 	 ('actor_pkey'),
 	 ('address_pkey'),
