@@ -1,18 +1,20 @@
-# Домашние работы на курсе Data-Science в Нетологии
-В данном репозитории собраны все домашние работы, которые приходилось решать, в течение курса Data-Science
+# Homework on the Data-Science course in Netology Online University
+This repository contains all the homework that had to be solved during the Data-Science course
 
-
-Ниже приведено более удобное содержание:
+Below is more convenient content:
 ____
-## SQL
-:white_check_mark: [Homework №1] ()
+## SQL (PostgreSQL)
+:white_check_mark: [Homework №1](https://github.com/vicvoilukov/Data-Science-Netology/blob/fc711a6ade86451f03afc064d015a66fb970da58/SQL/%D0%94%D0%BE%D0%BC%D0%B0%D1%88%D0%BD%D0%B5%D0%B5%20%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5%201.sql)
 
+write and execute the first SQL query
 
-:white_check_mark: [Homework №2] ()
+:white_check_mark: [Homework №2](https://github.com/vicvoilukov/Data-Science-Netology/blob/fc711a6ade86451f03afc064d015a66fb970da58/SQL/%D0%94%D0%BE%D0%BC%D0%B0%D1%88%D0%BD%D0%B5%D0%B5%20%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5%202.sql)
 
+Specify columns in SELECT and give names to columns; filtering and sorting rows using basic operators; perform text, number, and date conversions using functions for working with strings, dates.
 
 :white_check_mark: [Homework №3](https://github.com/vicvoilukov/Data-Science-Netology/blob/0a64faa09042a4e453a25318a1697fcf9a00c735/SQL/%D0%94%D0%BE%D0%BC%D0%B0%D1%88%D0%BD%D0%B5%D0%B5%20%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5%203.sql)
 
+Aggregation functions and grouping of strings; filter grouped rows; different variations of JOIN.
 
 :white_check_mark: [Homework №4](https://github.com/vicvoilukov/Data-Science-Netology/blob/0a64faa09042a4e453a25318a1697fcf9a00c735/SQL/%D0%94%D0%BE%D0%BC%D0%B0%D1%88%D0%BD%D0%B5%D0%B5%20%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5%204.sql)
 
