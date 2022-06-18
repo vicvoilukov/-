@@ -74,12 +74,12 @@ ____
 ## Numpy, Pandas
 :white_check_mark: [Homework №1](https://github.com/vicvoilukov/Data-Science-Netology/blob/f0b1ac9bc595adc7af066ed0fad1980ce34a773e/Numpy,%20Pandas/Homework_1_Numpy,_Pandas.ipynb)
 
-Variables and logical operators; conditional constructions
+Numpy: Distance metrics and vectors; cosine similarity between vectors; matrices
 
 :white_check_mark: [Homework №2](https://github.com/vicvoilukov/Data-Science-Netology/blob/f0b1ac9bc595adc7af066ed0fad1980ce34a773e/Numpy,%20Pandas/Homework_2_Numpy,_Pandas.ipynb)
 
-Variables and logical operators; conditional constructions
+Pandas: Collecting data from websites, files; simple calculations; filtres; sorting
 
 :white_check_mark: [Homework №3]([https://github.com/vicvoilukov/Data-Science-Netology/blob/63ae6f61eaf8de76a7e19900928f2c16fea58972/Python/Homework_3_Python.ipynb](https://github.com/vicvoilukov/Data-Science-Netology/blob/f0b1ac9bc595adc7af066ed0fad1980ce34a773e/Numpy,%20Pandas/Homework_3_Numpy,_Pandas.ipynb))
 
-Variables and logical operators; conditional constructions
+Pandas: Functions; grouping
