@@ -38,11 +38,34 @@ Using functions and operators to search for values in an array, materialized vie
 ____
 
 ## Python
-:white_check_mark: [Homework №1](https://github.com/vicvoilukov/Data-Science-Netology/blob/53416cb081a5e2188b3719ad74428b6b3a81bcf0/Python/Homework_1_Python.ipynb)
+:white_check_mark: [Homework №1](https://github.com/vicvoilukov/Data-Science-Netology/blob/63ae6f61eaf8de76a7e19900928f2c16fea58972/Python/Homework_1_Python.ipynb)
 
 Variables and logical operators; conditional constructions
 
-:white_check_mark: [Homework №1](https://github.com/vicvoilukov/Data-Science-Netology/blob/53416cb081a5e2188b3719ad74428b6b3a81bcf0/Python/Homework_1_Python.ipynb)
+:white_check_mark: [Homework №2](https://github.com/vicvoilukov/Data-Science-Netology/blob/63ae6f61eaf8de76a7e19900928f2c16fea58972/Python/Homework_2_Python.ipynb)
 
 Variables and logical operators; conditional constructions
 
+:white_check_mark: [Homework №3](https://github.com/vicvoilukov/Data-Science-Netology/blob/63ae6f61eaf8de76a7e19900928f2c16fea58972/Python/Homework_3_Python.ipynb)
+
+Variables and logical operators; conditional constructions
+
+:white_check_mark: [Homework №4](https://github.com/vicvoilukov/Data-Science-Netology/blob/63ae6f61eaf8de76a7e19900928f2c16fea58972/Python/Homework_4_Python.ipynb)
+
+Variables and logical operators; conditional constructions
+
+:white_check_mark: [Homework №5](https://github.com/vicvoilukov/Data-Science-Netology/blob/63ae6f61eaf8de76a7e19900928f2c16fea58972/Python/Homework_5_Python.ipynb)
+
+Variables and logical operators; conditional constructions
+
+:white_check_mark: [Homework №6](https://github.com/vicvoilukov/Data-Science-Netology/blob/63ae6f61eaf8de76a7e19900928f2c16fea58972/Python/Homework_6_Python.ipynb)
+
+Variables and logical operators; conditional constructions
+
+:white_check_mark: [Homework №7](https://github.com/vicvoilukov/Data-Science-Netology/blob/63ae6f61eaf8de76a7e19900928f2c16fea58972/Python/Homework_7_Python.ipynb)
+
+Variables and logical operators; conditional constructions
+
+:white_check_mark: [Homework №8](https://github.com/vicvoilukov/Data-Science-Netology/blob/63ae6f61eaf8de76a7e19900928f2c16fea58972/Python/Homework_8_Python.ipynb)
+
+Variables and logical operators; conditional constructions
