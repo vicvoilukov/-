@@ -1,5 +1,5 @@
 # Homework on the Data-Science course in Netology Online University
-This repository contains all the homework that had to be solved during the Data-Science course
+This repository contains all homework that had to be solved during the Data-Science course
 
 Below is more convenient content:
 ____
