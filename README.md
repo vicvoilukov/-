@@ -44,31 +44,31 @@ Variables and logical operators; conditional constructions
 
 :white_check_mark: [Homework №2](https://github.com/vicvoilukov/Data-Science-Netology/blob/63ae6f61eaf8de76a7e19900928f2c16fea58972/Python/Homework_2_Python.ipynb)
 
-Variables and logical operators; conditional constructions
+Simple data types; operations with lists, tuples; loop while, for
 
 :white_check_mark: [Homework №3](https://github.com/vicvoilukov/Data-Science-Netology/blob/63ae6f61eaf8de76a7e19900928f2c16fea58972/Python/Homework_3_Python.ipynb)
 
-Variables and logical operators; conditional constructions
+Dictionaries and operations with it
 
 :white_check_mark: [Homework №4](https://github.com/vicvoilukov/Data-Science-Netology/blob/63ae6f61eaf8de76a7e19900928f2c16fea58972/Python/Homework_4_Python.ipynb)
 
-Variables and logical operators; conditional constructions
+Functions (declaring, parameters); scopes
 
 :white_check_mark: [Homework №5](https://github.com/vicvoilukov/Data-Science-Netology/blob/63ae6f61eaf8de76a7e19900928f2c16fea58972/Python/Homework_5_Python.ipynb)
 
-Variables and logical operators; conditional constructions
+Reading files; Writing objects to a File
 
 :white_check_mark: [Homework №6](https://github.com/vicvoilukov/Data-Science-Netology/blob/63ae6f61eaf8de76a7e19900928f2c16fea58972/Python/Homework_6_Python.ipynb)
 
-Variables and logical operators; conditional constructions
+Errors and their meanings; working with date format
 
 :white_check_mark: [Homework №7](https://github.com/vicvoilukov/Data-Science-Netology/blob/63ae6f61eaf8de76a7e19900928f2c16fea58972/Python/Homework_7_Python.ipynb)
 
-Variables and logical operators; conditional constructions
+Classes, class inheritance
 
 :white_check_mark: [Homework №8](https://github.com/vicvoilukov/Data-Science-Netology/blob/63ae6f61eaf8de76a7e19900928f2c16fea58972/Python/Homework_8_Python.ipynb)
 
-Variables and logical operators; conditional constructions
+Working with regular expressions
 ____
 
 ## Numpy, Pandas
